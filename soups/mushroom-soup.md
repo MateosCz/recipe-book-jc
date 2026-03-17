@@ -1,4 +1,4 @@
-# Mushroom soup recipe chicken
+# Mushroom soup recipe Beef
 
 
 ## Ingredients
@@ -14,7 +14,8 @@
 - **2 tablespoons** all-purpose flour (optional, for thickening)
 - **Fresh parsley** chopped, for garnish
 - **Crusty bread** for serving
-- **300g** chicken
+ 
+- **300g** Beef
 
 
 ## Instructions

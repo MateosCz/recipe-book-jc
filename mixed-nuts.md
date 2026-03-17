@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Almonds
+- Brazil nuts.
+- cashew nuts.
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Step 1: mix them
